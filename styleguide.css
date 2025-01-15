@@ -1,0 +1,16 @@
+:root {
+    --secondarylight: rgba(106, 109, 158, 1);
+    --secondarydark: rgba(22, 25, 79, 1);
+    --medium-font-family: "Roboto", Helvetica;
+    --medium-font-weight: 400;
+    --medium-font-size: 17px;
+    --medium-letter-spacing: 0px;
+    --medium-line-height: normal;
+    --medium-font-style: normal;
+    --body-main-font-family: "Roboto", Helvetica;
+    --body-main-font-weight: 400;
+    --body-main-font-size: 20px;
+    --body-main-letter-spacing: 0px;
+    --body-main-line-height: normal;
+    --body-main-font-style: normal;
+  }
